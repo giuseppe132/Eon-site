@@ -1,0 +1,10 @@
+<doctype html>
+<html lang="it">
+	<head>
+	<meta charset="utf-8"/>
+	<title>eon was here</title>
+	</head>
+		<body>
+		<img src="images/eonarco1_2.png" alt="copertina libro"/>
+		</body>
+</html>
