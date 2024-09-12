@@ -30,3 +30,8 @@ display: block;
 margin: 0 auto;
 width: 600px;
 }
+
+h6
+{
+text-align:right;
+}
