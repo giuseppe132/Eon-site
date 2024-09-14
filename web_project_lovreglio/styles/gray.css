@@ -1,29 +1,26 @@
 h1{
-  color:green;
+  color:rgb(138, 138, 138);
   font-size:60px;
   text-align:center;
   text-shadow: 3px 3px 3px black;
-  text-decoration-style: none;
   }
 
 h2{
   text-align:center;
-  border:2px solid green;
-  background-color:#99de7b;
+  border:2px solid rgb(122, 122, 122);
+  background-color:#979797
   }
 
-
-  
 html{
 font-size:15px;
 font-family:"Open Sans",sans-serif;
-background-color:#38761d;
+background-color:#555555;
 }
 
 body{
-width: 80%;
+width: 600px;
 margin: 0 auto;
-background-color:#e4ffd8;
+background-color:#c2c2c2;
 border: 5px solid black;
 }
 
@@ -33,17 +30,8 @@ margin: 0 auto;
 width: 600px;
 }
 
-h6
-{
-text-align:right;
-}
-
 @media screen and (min-width:1081px){
   body{
     padding: 0 20px 20px 20px;
-    width: 600px;
-    margin: 0 auto;
-    background-color:#e4ffd8;
-    border: 5px solid black;
   }
-  }
+}
