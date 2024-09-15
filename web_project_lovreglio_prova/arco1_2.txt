@@ -1,0 +1,14 @@
+<doctype html>
+<html lang="it">
+
+	<head>
+	<meta charset="utf-8"/>
+	<title>eon was here</title>
+	</head>
+
+		<body>
+		<h1>EON ARCO 1 2</h1></a>
+
+		<p> In questi due archi, il nostro "specialista" aprirà per la sua prima volta gli occhi. Conoscerà un pò il suo mondo circostante e... Verrà scaraventato in un mondo... 
+				Abitato solo da Pokémon?!?<br> Chissà come ci sarà finito lì,
+				chissà che scelte farà, chissà chi incontrerà, chissà che pericoli affronterà...</p></center>
